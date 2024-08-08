@@ -47,7 +47,7 @@ installed.
 
 .. code-block:: bash
 
-    [sudo] apt install autotools-dev automake libtool libleptonica-dev
+    [sudo] apt install autotools-dev automake libtool libleptonica-dev zlib1g-dev make g++
 ..
 
 
